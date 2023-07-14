@@ -6,7 +6,7 @@ const Social = () => {
     <div className="home__social">
       <a
         rel="noreferrer"
-        href="https://www.linkedin.com/in/akhilbolla"
+        href="https://github.com/akhilbolla18"
         className="home__social-icon"
         target="_blank"
       >
@@ -14,8 +14,8 @@ const Social = () => {
       </a>
       <a
         rel="noreferrer"
-        href="https://github.com/akhilbolla18"
         className="home__social-icon"
+        href="https://www.linkedin.com/in/akhilbolla"
         target="_blank"
       >
         <FiLinkedin />

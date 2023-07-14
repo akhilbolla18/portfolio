@@ -35,7 +35,7 @@ const Contact = () => {
               <span className="contact__card-data">akhilbolla89@gmail.com</span>
 
               <a
-                href="mailto:cyphersylph@gmail.com"
+                href="mailto:akhilbolla89@gmail.com"
                 className="contact__button"
               >
                 Write Me
