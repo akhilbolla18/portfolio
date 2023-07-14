@@ -1,8 +1,6 @@
 import React from "react";
 import "./about.css";
-// import AboutImg from "../../assets/aboutBW.jpeg";
-import CV from "../../assets/Example-Cv.pdf";
-import Info from "./Info";
+// import Info from "./Info";
 
 const About = () => {
   return (
@@ -25,7 +23,11 @@ const About = () => {
           <a href="#skills" className="button-outlline button--flex">
             Know More
           </a>
-          <a download="" href={CV} className="button button--flex">
+          <a
+            download=""
+            href="https://www.linkedin.com/in/akhilbolla/"
+            className="button button--flex"
+          >
             Download Resume
             <svg
               class="button__icon"
